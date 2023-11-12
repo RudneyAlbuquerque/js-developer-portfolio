@@ -60,21 +60,38 @@
       "github": true
     }
   ],
+  "EducationExperience": [
+    {
+      "name": "Tecnólogo em Gestão de Sistema de Informação",
+      "period": "2010 - 2012",
+      "institution": "FAECE - Faculdade de Ensino e Cultura do Ceará."
+    },
+    {
+      "name": "Tecnólogo em Redes de Computadores",
+      "period": "2013 - 2015",
+      "institution": "Faculdade Evolução."
+    },
+    {
+      "name": "Pós-graduação em Segurança de Redes de Computadores",
+      "period": "2016 - 2017",
+      "institution": "Faculdade Evolução."
+    }
+  ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Assistente administrativo / Rota Expressa SA",
+      "period": "2010 - 2012",
+      "description": "Empresa de frota de ônibus em Fortaleza/CE."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Suporte Técnico em Informática / Compasso LTDA",
+      "period": "2012 - 2016",
+      "description": "Era reponsável pela infraestrutura computacional da empresa."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Assistente administrativo / PMCE",
+      "period": "2016 - ATUAL",
+      "description": "Responsável pelo elaboração da escala de serviço."
     }
   ]
 }
